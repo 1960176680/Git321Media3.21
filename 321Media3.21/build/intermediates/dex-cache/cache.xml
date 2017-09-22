@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioWorkplace\321Media3.21\_321Media32\libs\AppOffer_1.8.6_yangguangfu.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="719da67b6639a132127a2810126ecc3db7c8d17f">
+        <dex dex="E:\AndroidStudioWorkplace\321Media3.21\_321Media32\build\intermediates\pre-dexed\debug\AppOffer_1.8.6_yangguangfu_385865e7f3ee2d542d480ec9b23e46e96332899a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioWorkplace\321Media3.21\_321Media32\build\intermediates\exploded-aar\321Media3.21\initActivity\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="54e5f705f0d8c274078e23d7e2dab13dd525a051">
+        <dex dex="E:\AndroidStudioWorkplace\321Media3.21\_321Media32\build\intermediates\pre-dexed\debug\321Media3.21-initActivity-unspecified_97f9a9055d9d41d0bc277892cb8b9aa21ac959a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\AndroidStudioWorkplace\321Media3.21\_321Media32\build\intermediates\pre-dexed\debug\support-v4-18.0.0_8f5d9d3b19bddb8fdb5021b3f8ac0d38fd807399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioWorkplace\321Media3.21\_321Media32\libs\AppOffer_1.8.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f51cda773c91051f09efba85c6bff5e583090d5f">
+        <dex dex="E:\AndroidStudioWorkplace\321Media3.21\_321Media32\build\intermediates\pre-dexed\debug\AppOffer_1.8.6_240d05147f7675982d04149411c55abc541ade20.jar" />
+    </item>
+
+</items>
